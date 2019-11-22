@@ -4,7 +4,7 @@ To create a Neural Network model That can predict the Sign language Symbols (Han
 Understanding sign language is one of the primary enablers in helping users of sign language communicate with the rest of the society
 Sign Language consists of fingerspelling, which spells out words character by character, and word level association which involves hand gestures that convey the word meaning
 
-library used :
+libraries used :
 
 1) TensorFlow is an open source library for numerical computation and large-scale machine learning. TensorFlow bundles together a slew of machine learning and deep learning (aka neural networking) models and algorithms and makes them useful by way of a common metaphor.
 
