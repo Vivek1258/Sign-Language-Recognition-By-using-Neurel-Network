@@ -1,4 +1,4 @@
-# Sign-Language-Recognition-By-using-Simple-Neurel-Network-
+# Sign-Language-Recognition-By-using-Neurel-Network-
 To create a Neural Network model That can predict the Sign language Symbols (Hand)
 
 Understanding sign language is one of the primary enablers in helping users of sign language communicate with the rest of the society
